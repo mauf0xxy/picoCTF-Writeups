@@ -18,10 +18,10 @@ warm                  100%[=======================>]  18.86K  --.-KB/s    in 0.0
 
 2026-04-11 15:04:55 (3.37 MB/s) - 'warm' saved [19312/19312]
 
-maufoxy-picoctf@webshell:~$ chmod 777 warm
-maufoxy-picoctf@webshell:~$ ./warm
+mauf0xxy-picoctf@webshell:~$ chmod 777 warm
+mauf0xxy-picoctf@webshell:~$ ./warm
 Hello user! Pass me a -h to learn what I can do!
-maufoxy-picoctf@webshell:~$ ./warm -h
+mauf0xxy-picoctf@webshell:~$ ./warm -h
 Oh, help? I actually don't do much, but I do have this flag here:
 ```
 

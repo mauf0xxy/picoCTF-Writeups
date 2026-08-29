@@ -14,7 +14,7 @@ extracting: Addadshashanammu/Almurbalarammi/Ashalmimilkala/Assurnabitashpi/Maelk
 
 inflating: Addadshashanammu/Almurbalarammi/Ashalmimilkala/Assurnabitashpi/Maelkashishi/Onnissiralis/Ularradallaku/fang-of-haynekhtnamet
 
-maufoxy-picoctf@webshell:~$ find .
+mauf0xxy-picoctf@webshell:~$ find .
 .
 ./.bash_logout
 ./.bashrc
@@ -45,7 +45,7 @@ maufoxy-picoctf@webshell:~$ find .
 
 ** Keep pressing TAP until you reach the file **
 
-maufoxy-picoctf@webshell:~$ ./Addadshashanammu/Almurbalarammi/Ashalmimilkala/Assurnabitashpi/Maelkashishi/Onnissiralis/Ularradallaku/fang-of-haynekhtnamet
+mauf0xxy-picoctf@webshell:~$ ./Addadshashanammu/Almurbalarammi/Ashalmimilkala/Assurnabitashpi/Maelkashishi/Onnissiralis/Ularradallaku/fang-of-haynekhtnamet
 *ZAP!*
 ```
 
