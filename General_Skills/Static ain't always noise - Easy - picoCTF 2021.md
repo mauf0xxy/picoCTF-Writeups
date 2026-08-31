@@ -1,6 +1,8 @@
 # Static ain't always noise - Easy - picoCTF 2021
 
 ```bash
+mauf0xxy-academy@webshell:~$ chmod +x ltdis.sh
+
 mauf0xxy-academy@webshell:~$ ./ltdis.sh 
 Attempting disassembly of  ...
 objdump: 'a.out': No such file
