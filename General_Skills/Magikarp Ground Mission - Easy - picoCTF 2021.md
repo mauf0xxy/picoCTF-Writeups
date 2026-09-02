@@ -14,7 +14,6 @@ ctf-player@pico-chall$ cat instructions-to-3of3.txt
 Lastly, ctf-player, go home... more succinctly ~
 ctf-player@pico-chall$ cd ~
 ctf-player@pico-chall$ cat 3of3.flag.txt
-[REDACTED]}
 ```
 
 ---
