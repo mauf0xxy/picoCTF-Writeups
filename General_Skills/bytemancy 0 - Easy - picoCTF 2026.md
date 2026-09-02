@@ -27,7 +27,9 @@ break
 mauf0xxy-picoctf@webshell:~$ python app.py
 ⊹──────[ BYTEMANCY-0 ]──────⊹
 ☍⟐☉⟊☽☈⟁⧋⟡☍⟐☉⟊☽☈⟁⧋⟡☍⟐☉⟊☽☈⟁⧋⟡☍⟐
+
 Send me ASCII DECIMAL 101, 101, 101, side-by-side, no space.
+
 ☍⟐☉⟊☽☈⟁⧋⟡☍⟐☉⟊☽☈⟁⧋⟡☍⟐☉⟊☽☈⟁⧋⟡☍⟐
 ⊹─────────────⟡─────────────⊹
 ==> eee
