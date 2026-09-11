@@ -1,6 +1,6 @@
 # endianness - Easy - picoCTF 2024
 
-![](https://github.com/mauf0xxy/picoCTF-Writeups/blob/main/General_Skills/images/BE%20and%20LE.png)
+![](https://github.com/mauf0xxy/picoCTF-Writeups/blob/main/General_Skills/images/CyberChef1.png)
 
 ![](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*WH2yY46pzbEPEWyayPjMuA.png)
 
