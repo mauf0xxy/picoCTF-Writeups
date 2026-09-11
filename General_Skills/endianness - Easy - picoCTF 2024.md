@@ -1,12 +1,12 @@
 # endianness - Easy - picoCTF 2024
 
-
+![](https://github.com/mauf0xxy/picoCTF-Writeups/blob/main/General_Skills/images/BE%20and%20LE.png)
 
 ![](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*WH2yY46pzbEPEWyayPjMuA.png)
 
-https://blockchain-academy.hs-mittweida.de/litte-big-endian-converter/
+[Martin Schuster Litte Big Endian Converter - Blockchain Academy](https://blockchain-academy.hs-mittweida.de/litte-big-endian-converter/)
 
-```yaml
+```
 Welcome to the Endian CTF!
 You need to find both the little endian and big endian representations of a word.
 If you get both correct, you will receive the flag.
